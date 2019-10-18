@@ -9,10 +9,15 @@ Module 4 Module 4, Programming Assignment 3, Problem 1
 
 Using Class Diagramming Tool
 
-Using the Class Diagram to show the relationships between the base class
-HeadCheese, the two child classes Cheddar and Swiss and the grandchild
-classes WhiteCheddar and YellowCheddar for Cheddar and WholeSwiss and 
-SlicedSwiss for Swiss.
+Using the Class Diagram called CheeseProduction to show the relationships 
+or inheritance between the base class HeadCheese, the two child classes 
+Cheddar and Swiss and the grandchildclasses WhiteCheddar and YellowCheddar 
+for Cheddar and WholeSwiss and SlicedSwiss for Swiss.
+
+The parent class HeadCheese have the abstract keyword and the inheritance
+will be shown with lines connecting the two classes where the 'child' class
+will me on one end and the 'parent' class will have the pointed arrow on 
+the other end.
 */
 using System;
 using System.Collections.Generic;
